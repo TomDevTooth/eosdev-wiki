@@ -22,6 +22,9 @@ brew install eosio
 brew remove eosio
 ```
 
+* EOSIO 설치 후 해당 폴더의 위치는 usr/local/cellar 안에 있습니다. usr 폴더는 MAC에서 사용하는 라이브러리 폴더인데 기본적으로 숨김으로 설정이 되어 있어서 특정 커맨드를 입력하여 진입 가능합니다. Finder에서 [Command + Shift + G] 키 입력으로 usr/local/cellar를 입력하여  경로로 이동합니다.
+
+
 ## 2. Ubuntu
 
 ### Ubuntu 18.04 Install
