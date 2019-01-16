@@ -32,7 +32,8 @@
 
 * [칼럼/정보](posting/column.md)
 * [스마트컨트랙트 분석](posting/undefined-1.md)
-* [자주 발생하는 오류](posting/undefined.md)
+* [자주 발생하는 오류](posting/undefined/README.md)
+  * [Error 3080006: Transaction took too long](posting/undefined/error-3080006-transaction-took-too-long.md)
 
 ## keywords
 
