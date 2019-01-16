@@ -5,7 +5,7 @@
 * [EOS 설치하기](./) 페이지에서 지원되는 OS를 미리 확인한다.
 * [https://github.com/eosio/eos/releases](https://github.com/eosio/eos/releases) 페이지를 통해 패키지 도구가 지원하는 버전을 확인한다. 
 
-해당 페이지 생성 기준 최신 버전은 [v1.5.1](../../document/release-notes/v1.5.1.md) 이다.
+해당 페이지 생성 기준 최신 버전은 [v1.5.1](../../document/release-notes/v1.5.1.md) 이다. 
 
 ## 1. Mac OS
 
